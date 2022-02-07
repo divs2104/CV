@@ -1,0 +1,32 @@
+body {
+    background-color:#FFCBCB;
+  
+  }
+
+  hr {
+    background-color: #FFCBCB;
+    height: 0px;
+    width: 20%;
+    border-style: dotted none none;
+    border-width: 10px;
+    border-color: grey;
+  }
+
+  h1{
+      color: #66BFBF;
+  }
+  h3{
+      color: #66BFBF;
+  }
+  .profile{
+    background-color: red;
+  }
+
+  img:hover{
+    border-radius: 100%;
+   
+  }
+
+
+
+  
